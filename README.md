@@ -68,10 +68,7 @@ Here are some official and community-recommended URLs to learn more about the te
 ---
 
 ### **9. General Resources**
-- **Rust and WebAssembly Working Group**: [https://rustwasm.github.io/](https://rustwasm.github.io/)
 - **Awesome Rust (Community Resources)**: [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-- **WebAssembly Studio (Online IDE)**: [https://webassembly.studio/](https://webassembly.studio/)
-
 ---
 
 These resources will give you a solid foundation in the technologies used in your project. Let me know if you'd like more specific tutorials or examples!
