@@ -27,8 +27,6 @@ Here are some official and community-recommended URLs to learn more about the te
 ### **2. WebAssembly (WASM)**
 - **WebAssembly Official Website**: [https://webassembly.org/](https://webassembly.org/)
 - **MDN WebAssembly Guide**: [https://developer.mozilla.org/en-US/docs/WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-- **wasm-bindgen (Rust to WASM Bindings)**: [https://rustwasm.github.io/wasm-bindgen/](https://rustwasm.github.io/wasm-bindgen/)
-- **wasm-pack (Build Tool for WASM)**: [https://rustwasm.github.io/wasm-pack/](https://rustwasm.github.io/wasm-pack/)
 
 ---
 
