@@ -1,3 +1,5 @@
+<span color="red"> NOT WORKING </span>
+
 # rust_template_wasm_bindgen
 
 https://ze-gois.github.io/rust_template_wasm_bindgen/
